@@ -1,0 +1,5 @@
+br/ufes/inf/nemo/empresa/domain/Empresa.class
+br/ufes/inf/nemo/empresa/domain/Funcionario.class
+br/ufes/inf/nemo/empresa/domain/Departamento.class
+br/ufes/inf/nemo/empresa/EmpresaApplication.class
+br/ufes/inf/nemo/empresa/EmpresaController.class
